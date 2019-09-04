@@ -7,6 +7,8 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Wrapper from './components/Wrapper';
 
+// console.log(process.env.REACT_APP_API_KEY);
+
 function App() {
   return (
     <Router>
